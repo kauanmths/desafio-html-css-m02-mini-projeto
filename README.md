@@ -2,7 +2,7 @@
 
 ## Módulo 2
 
-Desafio único realizado durante o curso de HTML e CSS (40h) ministrado pelo professor Gustavo Guanabara do canal Curso em Vídeo.
+Desafio único realizado durante o curso de HTML e CSS: Módulo 02 (40h) ministrado pelo professor Gustavo Guanabara do canal Curso em Vídeo.
 
 <img src="imagens/emoji2.png" align="right" width="350"/>
 
